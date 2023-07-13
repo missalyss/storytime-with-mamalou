@@ -10,7 +10,7 @@ import "./pattern-lib/styles/flex.css";
 import "./pattern-lib/styles/misc.css";
 import "./pattern-lib/styles/padding-margin.css";
 
-import HomePage from "./components/index";
+import HomePage from "./components";
 
 // const router = createBrowserRouter([
 //   {
